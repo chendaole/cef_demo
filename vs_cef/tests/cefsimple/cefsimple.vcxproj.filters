@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\chendaole\cef\cef_binary_3.3202.1680.g700054b_windows32\tests\cefsimple\simple_app.cc">
+      <Filter>cefsimple</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\chendaole\cef\cef_binary_3.3202.1680.g700054b_windows32\tests\cefsimple\simple_handler.cc">
+      <Filter>cefsimple</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\chendaole\cef\cef_binary_3.3202.1680.g700054b_windows32\tests\cefsimple\cefsimple_win.cc">
+      <Filter>cefsimple</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\chendaole\cef\cef_binary_3.3202.1680.g700054b_windows32\tests\cefsimple\simple_handler_win.cc">
+      <Filter>cefsimple</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\chendaole\cef\cef_binary_3.3202.1680.g700054b_windows32\tests\cefsimple\simple_app.h">
+      <Filter>cefsimple</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\chendaole\cef\cef_binary_3.3202.1680.g700054b_windows32\tests\cefsimple\simple_handler.h">
+      <Filter>cefsimple</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\chendaole\cef\cef_binary_3.3202.1680.g700054b_windows32\tests\cefsimple\resource.h">
+      <Filter>cefsimple</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\chendaole\cef\cef_binary_3.3202.1680.g700054b_windows32\tests\cefsimple\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\chendaole\cef\cef_binary_3.3202.1680.g700054b_windows32\tests\cefsimple\res\cefsimple.ico">
+      <Filter>cefsimple\res</Filter>
+    </None>
+    <None Include="E:\chendaole\cef\cef_binary_3.3202.1680.g700054b_windows32\tests\cefsimple\res\small.ico">
+      <Filter>cefsimple\res</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="E:\chendaole\cef\cef_binary_3.3202.1680.g700054b_windows32\tests\cefsimple\cefsimple.rc">
+      <Filter>cefsimple</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="cefsimple">
+      <UniqueIdentifier>{BEAC2103-0EED-38B6-86AC-DB74482FCFC8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cefsimple\res">
+      <UniqueIdentifier>{18EC25CE-FA5D-3B30-A18D-446DF1D654C1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
